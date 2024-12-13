@@ -1,2 +1,4 @@
 Hello, How are you?
 i'm not fine
+comparing
+git diff comand
